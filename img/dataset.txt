@@ -1,0 +1,2 @@
+http://vision.middlebury.edu/stereo/data/
+http://vasc.ri.cmu.edu/idb/html/stereo/index.html
